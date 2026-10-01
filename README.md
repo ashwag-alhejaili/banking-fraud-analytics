@@ -43,4 +43,4 @@ The dataset contains 100,000 banking transactions. The main goal was to clean th
 
 ## Dataset
 
-The dataset used in this project is a sample of the [Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection) from Kaggle, used for learning and practice.
+The dataset used in this project is [Credit Card Transactions with Fraud Detection](https://www.kaggle.com/datasets/hnytfo/credit-card-transactions-with-fraud-detection?select=fraud_detection_credit_card_small.csv) from Kaggle, used for learning and practice.
